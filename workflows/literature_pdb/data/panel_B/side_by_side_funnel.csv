@@ -1,0 +1,8 @@
+stage,monomer_unique_doi_uniprot_keys,monomer_unique_pdb_uniprot_records,homo_unique_doi_uniprot_keys,homo_unique_pdb_uniprot_records,overlap_note
+starting_structural_manifest,not_defined,53868,not_defined,48908,DOI×UniProt not defined at pre-DOI manifest stage
+doi_bearing_structural_records,23018,44132,20266,38694,both-source cards/links included in both columns; do not sum
+canonical_exact_member_cards_sent_to_gpt_5_4_mini,16957,32247,15424,28966,both-source cards/links included in both columns; do not sum
+cards_with_any_mini_state_or_event_candidate,3956,6117,10452,19460,both-source cards/links included in both columns; do not sum
+doi_complete_cards_submitted_to_terra,4225,6499,10716,19850,both-source cards/links included in both columns; do not sum
+terra_verified,4215,6486,10680,19757,both-source cards/links included in both columns; do not sum
+terra_fully_or_partially_usable,3313,5101,8710,16124,both-source cards/links included in both columns; do not sum

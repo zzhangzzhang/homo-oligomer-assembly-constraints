@@ -1,0 +1,24 @@
+{
+  "esm2_650m": {
+    "checkpoint": "esm2_t33_650M_UR50D.pt",
+    "checkpoint_sha256": "ea9d0522b335a8778dea6535a65301f10208dece28cd5865482b0b1fc446168c",
+    "official_contact_head": "esm2_t33_650M_UR50D-contact-regression.pt",
+    "official_contact_head_sha256": "8ffe6edbd4173dc8d45c2cd5cb27d43aad77ec26b4c768200c58ae1f96693575"
+  },
+  "esm3_1.4b": {
+    "repository": "EvolutionaryScale/esm3-sm-open-v1",
+    "revision": "2feda652c51c57f9797fc1b01f8d6181b38fb488"
+  },
+  "esmc_300m": {
+    "repository": "EvolutionaryScale/esmc-300m-2024-12",
+    "revision": "7f10b20ae75017b2dbc884070e03434515709a8d"
+  },
+  "esmc_600m": {
+    "repository": "EvolutionaryScale/esmc-600m-2024-12",
+    "revision": "e4d83bc7e10fd55c92e598e545f4a76bf04a6e5c"
+  },
+  "esmc_6b": {
+    "repository": "biohub/ESMC-6B",
+    "revision": "45b0fa5d7fb06faefbd5e3b89bdcef35d564e79a"
+  }
+}

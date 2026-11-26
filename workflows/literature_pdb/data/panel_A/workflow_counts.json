@@ -1,0 +1,25 @@
+{
+  "example": {
+    "doi": "10.1016/j.ijpara.2018.01.002",
+    "literature_class": "Monomer-only",
+    "pdb": "5WEE",
+    "pdb_biological_assembly": "Homo 2-mer",
+    "quote_character_count": 219,
+    "quote_sha256": "88a087c68583f748229131fef5b658e7a650f64b977c1379169ce7ac9903ba3a",
+    "uniprot": "A0A183GMB4"
+  },
+  "homo_oligomer_labelled": {
+    "accepted_three_class_classification": 8562,
+    "exact_cards_processed_by_mini": 28966,
+    "mini_candidate_description_retrieved": 19460,
+    "structural_manifest": 48908
+  },
+  "monomer_labelled": {
+    "accepted_three_class_classification": 3403,
+    "exact_cards_processed_by_mini": 32247,
+    "mini_candidate_description_retrieved": 6117,
+    "structural_manifest": 53868
+  },
+  "source_note": "Values displayed in submitted Figure 6A and verified against the final structural manifests, funnel, and plot summary.",
+  "unit": "PDB\u00d7UniProt structural record"
+}

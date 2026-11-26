@@ -1,0 +1,7 @@
+pdb_id,qid_percent,pre_cap_hhfilter_count,source_file
+3o1n,15,8485,/path/to/external-data/eppic/msa_pairformer/pred_qid_vs_random_all/msa_sequence_counts.csv
+3o1n,35,1838,/path/to/external-data/eppic/msa_pairformer/pred_qid_vs_random_all/msa_sequence_counts.csv
+3epw,15,15141,/path/to/external-data/eppic/msa_pairformer/pred_qid_vs_random_all/msa_sequence_counts.csv
+3epw,30,350,/path/to/external-data/eppic/msa_pairformer/pred_qid_vs_random_all/msa_sequence_counts.csv
+3mkm,15,26254,/path/to/external-data/msa_pairformer/pred_qid_vs_random_all/msa_sequence_counts.csv
+3mkm,35,4584,/path/to/external-data/msa_pairformer/pred_qid_vs_random_all/msa_sequence_counts.csv

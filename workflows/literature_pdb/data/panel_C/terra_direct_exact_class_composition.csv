@@ -1,0 +1,11 @@
+branch,direct_exact_class,unique_doi_uniprot_keys,unique_pdb_uniprot_records,submitted_doi_uniprot_denominator,submitted_pdb_uniprot_denominator,note
+monomer_linked,Monomer-only,1267,1935,4225,6499,quote-only rebuild; includes both-source cards/links
+monomer_linked,Multiple states,601,918,4225,6499,quote-only rebuild; includes both-source cards/links
+monomer_linked,Oligomer-only,368,550,4225,6499,quote-only rebuild; includes both-source cards/links
+monomer_linked,Unknown,103,177,4225,6499,quote-only rebuild; includes both-source cards/links
+monomer_linked,No direct exact accepted class,1886,2919,4225,6499,submitted branch membership minus four classifications
+homo_linked,Monomer-only,261,376,10716,19850,quote-only rebuild; includes both-source cards/links
+homo_linked,Multiple states,1095,1843,10716,19850,quote-only rebuild; includes both-source cards/links
+homo_linked,Oligomer-only,3351,6343,10716,19850,quote-only rebuild; includes both-source cards/links
+homo_linked,Unknown,226,391,10716,19850,quote-only rebuild; includes both-source cards/links
+homo_linked,No direct exact accepted class,5783,10897,10716,19850,submitted branch membership minus four classifications

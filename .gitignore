@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+.env
+*.key
+*.pem
+
+# Regenerated or external large artifacts
+outputs/reproduced/
+**/outputs/reproduced/
+generated/
+**/generated/
+external_data/
+checkpoints/
+predictions/
+jacobians/
+hf_cache/
+
+# Interrupted/temporary outputs
+*.part
+*.tmp

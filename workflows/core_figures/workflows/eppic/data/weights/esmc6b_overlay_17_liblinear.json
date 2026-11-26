@@ -1,0 +1,26 @@
+{
+  "liblinear_opts": "-s 6 -c 0.15 -e 0.0001",
+  "n_features": 3200,
+  "seqsep_k": 6,
+  "source_pickle_sha256": "20b9efc3ac8f5d70e4ad6544756699bc1f0e84ebd455e37cddfb883cbe62438b",
+  "target_key": "overlay_contact",
+  "train_pdb_ids": [
+    "3it7",
+    "3nqb",
+    "4aef",
+    "2wqd",
+    "2dkn",
+    "4lgv",
+    "1knb",
+    "4arm",
+    "1aua",
+    "3i7a",
+    "1gvh",
+    "3dhu",
+    "5dik",
+    "2glz",
+    "3ve2",
+    "5omp",
+    "3v9o"
+  ]
+}

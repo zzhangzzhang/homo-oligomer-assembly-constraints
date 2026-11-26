@@ -1,0 +1,3 @@
+pdb_id,reason
+2w6a,Excluded globally by the analysis specification.
+2fgz,"Excluded globally: target length 1083, but the available Pairformer prediction is truncated to 1024."

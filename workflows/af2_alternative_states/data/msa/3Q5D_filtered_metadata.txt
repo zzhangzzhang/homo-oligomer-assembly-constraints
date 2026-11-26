@@ -1,0 +1,5 @@
+source=/path/to/external-data/cfold_clean/predictions/3Q5D_3Q5E_3Q5D_no_mask/msa.filt.a3m
+sequences=3429
+query_length=447
+sha256=e1711c19391330ecbe12f72c9a842d7460caf7c0bd7b5407a82eb618f1fdd7e9
+hhfilter_command=hhfilter -qid 0 -id 90 -cov 75

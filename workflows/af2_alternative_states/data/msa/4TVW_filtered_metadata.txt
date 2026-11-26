@@ -1,0 +1,5 @@
+source=/path/to/external-data/cfold_clean/predictions/4TVW_4TVW_4TVY_no_mask/msa.filt.a3m
+sequences=6664
+query_length=341
+sha256=0fafe20068b313d2fe323a756344828f790f6a41d3ffe57c28cb745a2fdf7c39
+hhfilter_command=hhfilter -qid 0 -id 90 -cov 75
